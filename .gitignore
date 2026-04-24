@@ -1,0 +1,8 @@
+.DS_S*
+__pycache__/
+*_utils.py
+*_utils.pyc
+*.py.*
+*.pyc.*
+data/image/flowers102
+!Homework04_utils.py
